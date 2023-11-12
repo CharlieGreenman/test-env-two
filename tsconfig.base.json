@@ -35,6 +35,9 @@
       ],
       "@test-env-two/data-access": [
         "libs/data-access/src/index.ts"
+      ],
+      "@test-env-two/data-services": [
+        "libs/data-services/src/index.ts"
       ]
     }
   },
