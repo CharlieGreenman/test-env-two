@@ -26,6 +26,9 @@
       ],
       "@test-env-two/home": [
         "libs/home/src/index.ts"
+      ],
+      "@test-env-two/common/common-services": [
+        "libs/common/common-services/src/index.ts"
       ]
     }
   },
