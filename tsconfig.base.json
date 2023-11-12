@@ -44,6 +44,9 @@
       ],
       "@test-env-two/data-models": [
         "libs/data-models/src/index.ts"
+      ],
+      "@test-env-two/common/common-environment": [
+        "libs/common/common-environment/src/index.ts"
       ]
     }
   },
