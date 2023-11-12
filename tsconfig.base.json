@@ -38,6 +38,9 @@
       ],
       "@test-env-two/data-services": [
         "libs/data-services/src/index.ts"
+      ],
+      "@test-env-two/data-graphql": [
+        "libs/data-graphql/src/index.ts"
       ]
     }
   },
