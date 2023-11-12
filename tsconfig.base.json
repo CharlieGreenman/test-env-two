@@ -23,6 +23,9 @@
       ],
       "@test-env-two/common/ui": [
         "libs/common/ui/src/index.ts"
+      ],
+      "@test-env-two/home": [
+        "libs/home/src/index.ts"
       ]
     }
   },
