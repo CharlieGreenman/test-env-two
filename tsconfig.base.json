@@ -41,6 +41,9 @@
       ],
       "@test-env-two/data-graphql": [
         "libs/data-graphql/src/index.ts"
+      ],
+      "@test-env-two/data-models": [
+        "libs/data-models/src/index.ts"
       ]
     }
   },
