@@ -32,6 +32,9 @@
       ],
       "@test-env-two/common/common-guards": [
         "libs/common/common-guards/src/index.ts"
+      ],
+      "@test-env-two/data-access": [
+        "libs/data-access/src/index.ts"
       ]
     }
   },
