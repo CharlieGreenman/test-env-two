@@ -42,8 +42,8 @@
           ],
           "fileReplacements": [
             {
-              "replace": "libs/common/environments/src/lib/environment.ts",
-              "with": "libs/common/environments/src/lib/environment.prod.ts"
+              "replace": "libs/common/common-environment/src/lib/environments/environment.ts",
+              "with": "libs/common/common-environment/src/lib/environments/environment.prod.ts"
             }
           ],
           "outputHashing": "all"
