@@ -26,6 +26,27 @@
       ],
       "@test-env-two/home": [
         "libs/home/src/index.ts"
+      ],
+      "@test-env-two/common/common-services": [
+        "libs/common/common-services/src/index.ts"
+      ],
+      "@test-env-two/common/common-guards": [
+        "libs/common/common-guards/src/index.ts"
+      ],
+      "@test-env-two/data-access": [
+        "libs/data-access/src/index.ts"
+      ],
+      "@test-env-two/data-services": [
+        "libs/data-services/src/index.ts"
+      ],
+      "@test-env-two/data-graphql": [
+        "libs/data-graphql/src/index.ts"
+      ],
+      "@test-env-two/data-models": [
+        "libs/data-models/src/index.ts"
+      ],
+      "@test-env-two/common/common-environment": [
+        "libs/common/common-environment/src/index.ts"
       ]
     }
   },
